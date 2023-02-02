@@ -1,0 +1,36 @@
+{
+  "blockHeroPack": {
+    "files": [
+      {
+        "type": "image",
+        "key": "tiles",
+        "url": "./src/assets/images/tiles.png"
+      },
+      {
+        "type": "spritesheet",
+        "key": "tiles_",
+        "url": "./src/assets/images/tiles.png"
+      },
+      {
+        "type": "image",
+        "key": "player",
+        "url": "./src/assets/images/player.png"
+      },
+      {
+        "type": "image",
+        "key": "box",
+        "url": "./src/assets/images/box.png"
+      },
+      {
+        "type": "image",
+        "key": "gold",
+        "url": "./src/assets/images/gold.png"
+      },
+      {
+        "type": "tilemapTiledJSON",
+        "key": "tilemap",
+        "url": "./src/assets/maps/level2.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "blockhero",
+  "version": "1.0.0",
+  "description": "Block Hero Crypto Game",
+  "keywords": [
+    "Phaser",
+    "Phaser 3",
+    "Phaser3",
+    "Html5-game",
+    "TypeScript",
+    "Tutorials",
+    "Phaser-tutorial",
+    "Phaser-game",
+    "Phaser-framework",
+    "Phaser3-example"
+  ],
+  "devDependencies": {
+    "expose-loader": "0.7.5",
+    "ts-loader": "5.3.3",
+    "typescript": "3.2.4",
+    "webpack": "4.29.0",
+    "webpack-cli": "3.2.1",
+    "webpack-dev-server": "3.1.14"
+  },
+  "dependencies": {
+    "phaser": "3.55.2"
+  },
+  "scripts": {
+    "dev": "webpack --mode development && webpack-dev-server --mode development",
+    "build": "webpack --mode production && webpack-dev-server --mode production"
+  }
+}
