@@ -1,4 +1,6 @@
-Puzzle Game Prototype        
+Puzzle Game Prototype - TypeScript - Phaser 3       
 --------
 
-A puzzle game prototype built in TypeScript using the [Phaser 3 Framework](https://phaser.io/phaser3).
+![Game Screenshot](https://raw.githubusercontent.com/rohinnz/Puzzle-Game-TypeScript/main/game-screenshot.png)
+
+A puzzle game prototype I built to teach myself TypeScript. Uses the [Phaser 3 Framework](https://phaser.io/phaser3).
